@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "pelisup-2ffe7"
+  },
+  "targets": {
+    "pelisup-2ffe7": {
+      "hosting": {
+        "primer-proyecto": [
+          "pelisup-2ffe7"
+        ]
+      }
+    }
+  }
+}
