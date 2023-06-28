@@ -1,0 +1,12 @@
+{
+  "database": {
+    "rules": "y"
+  },
+  "hosting": [
+    {
+      "target": "primer-proyecto",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

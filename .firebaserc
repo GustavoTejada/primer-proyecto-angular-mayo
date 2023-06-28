@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "test-focademy-angular"
+  },
+  "targets": {
+    "test-focademy-angular": {
+      "hosting": {
+        "primer-proyecto": [
+          "test-focademy-angular"
+        ]
+      }
+    }
+  }
+}
