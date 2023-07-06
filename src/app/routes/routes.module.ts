@@ -6,6 +6,7 @@ import { SeriesComponent } from './components/series/series.component';
 import { IngresarComponent } from './components/ingresar/ingresar.component';
 import { SharedModule } from '../shared/shared.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { DashboardComponent } from './components/dashboard/dashboard.component';
 
 
 
@@ -14,7 +15,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     InicioComponent,
     PeliculasComponent,
     SeriesComponent,
-    IngresarComponent
+    IngresarComponent,
+    DashboardComponent
   ],
   imports: [
     CommonModule,
